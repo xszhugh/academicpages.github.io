@@ -14,10 +14,10 @@ His research interests include signal processing, multimedia forensics and machi
 
 ### News!
 
-#### Postdoctoral positions in Neuronal mechanisms of learning and episodic memory at Max Planck Florida Institute for Neuroscience (MPFI)  
+- Postdoctoral positions in Neuronal mechanisms of learning and episodic memory at Max Planck Florida Institute for Neuroscience (MPFI)  
 Dr. Yingxue Wang is looking for highly motivated and independent individuals to join her team. Prospective applicants are encouraged to contact Dr. Wang (Yingxue.Wang@mpfi.org). by email with a CV and statement of your research interests. For more details, please visit the website:https://www.yingxuewang.org/positions/.
 
-#### Ph.D positions in Neuronal mechanisms of learning and episodic memory at Max Planck Florida Institute for Neuroscience (MPFI)  
+-  Ph.D positions in Neuronal mechanisms of learning and episodic memory at Max Planck Florida Institute for Neuroscience (MPFI)  
 Dr. Yingxue Wang is looking for highly motivated Ph.D. students to join her team. Prospective applicants are encouraged to contact Dr. Wang (Yingxue.Wang@mpfi.org). by email with a CV and statement of your research interests. For more details, please visit the website:https://www.yingxuewang.org/positions/.
 
 #### Master positions in image processing, Bioinformatics and deep learning at School of Electrical and Information Engineering, Tianjin University  
