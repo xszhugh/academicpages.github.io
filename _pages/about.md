@@ -13,5 +13,12 @@ Dr. Xinshan Zhu received the B.E. degree and the M.E. degree in automation contr
 His research interests include signal processing, multimedia forensics and machine learning.
 
 ### News!
+
+#### Postdoctoral positions in Neuronal mechanisms of learning and episodic memory at Max Planck Florida Institute for Neuroscience (MPFI)  
+Dr. Yingxue Wang is looking for highly motivated and independent individuals to join her team. Prospective applicants are encouraged to contact Dr. Wang (Yingxue.Wang@mpfi.org). by email with a CV and statement of your research interests. For more details, please visit the website:https://www.yingxuewang.org/positions/.
+
+#### Ph.D positions in Neuronal mechanisms of learning and episodic memory at Max Planck Florida Institute for Neuroscience (MPFI)  
+Dr. Yingxue Wang is looking for highly motivated Ph.D. students to join her team. Prospective applicants are encouraged to contact Dr. Wang (Yingxue.Wang@mpfi.org). by email with a CV and statement of your research interests. For more details, please visit the website:https://www.yingxuewang.org/positions/.
+
 #### Master positions in image processing, Bioinformatics and deep learning at School of Electrical and Information Engineering, Tianjin University  
 We are looking for two motivated master students skilled in programming or hardware development and interested in artificial intelligence to join our team. Prospective applicants are encouraged to contact Xinshan Zhu by email with a CV and statement of your research interests.
